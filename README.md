@@ -1,4 +1,20 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Problem?+Let+me+handle+it!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from INDIA</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **My skills enhancement**
+ 
+ 🌱 I’m currently learning **Docker, ReactJS, NextJS, and AWS , google cloud and C++ **
+
+⚡ Fun fact **If you ever feel useless, remember that the Indian Parliament has a 'No Work' day.**
+
+ </div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabhgupta.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhguptareal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/explorerrishabh) 
 
